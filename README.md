@@ -13,7 +13,7 @@ Zabbix Agent - Gluster
 ### Red Hat
 
     #~ sudo yum install ksh
-    #~
+    #~ yum install -y bc
 
 # Deploy
 ## Zabbix
