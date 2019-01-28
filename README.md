@@ -11,7 +11,7 @@ Zabbix Agent - Gluster
     #~
 
 ### Red Hat
-
+    #~ chmod -R 775 /etc/zabbix/scripts (phân quyền cho folder chứa glusxi)
     #~ sudo yum install ksh
     #~ yum install -y bc
 
